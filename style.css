@@ -1,0 +1,60 @@
+
+                        #header{
+                                position: fixed;
+                                top: 0;
+                                left: 0;
+                                height: 120px;
+                                width: 1400px;
+                                background-color: cyan;
+                        }
+                        #logo{
+                                position: fixed;
+                                top: 5px;
+                                left: 50px;
+                                height: 109px;
+                                width: 109px;
+                                border: 1px solid black;
+                                border-radius: 60px;
+                                background-image: url(logo.jpg);
+                                background-size: 107px;
+                                
+                        }
+                        #hosname{
+                                position: fixed;
+                                top: 0px;
+                                left: 255px;
+                                text-align: center;
+                                font-size: 100px;
+                                font-family: Arial;
+                        }
+                        #buttons{
+                                position: fixed;
+                                left:0;
+                                top: 121px;
+                                height: 50px;
+                                width: 1366px;
+                                background-color: lightgrey;
+                        }
+                        th{
+                        border: 1px solid black;
+                        padding-left: 40px;
+                        padding-right: 40px;
+                        padding-top: 5px;
+                        padding-bottom: 5px;
+                        }
+                        #table{
+                                position: fixed;
+                                top: 128px;
+                                left: 150px;
+                        }
+                        #doclist{
+                                position: static;
+                                top: 1000px;
+                                left: 200px;
+                                height: 160px;
+                                width: 1400px;
+                                text-align: center;
+                                background-color: rgb(255, 255, 255);
+                                
+                        }
+    

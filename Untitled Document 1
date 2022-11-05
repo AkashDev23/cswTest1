@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Medical company</title>
+                <style>
+                        #header{
+                                position: fixed;
+                                top: 0;
+                                left: 0;
+                                height: 70px;
+                                width: 140px;
+                        }
+                </style>
+        </head>
+        <body>
+                <div id="header">
+                        hellooooo
+                </div>
+        </body>
+</html>
